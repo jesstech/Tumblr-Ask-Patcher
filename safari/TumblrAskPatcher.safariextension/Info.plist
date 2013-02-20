@@ -51,7 +51,7 @@
 		</dict>
 	</dict>
 	<key>Update Manifest URL</key>
-	<string>https://github.com/jesstech/Tumblr-Ask-Patcher/raw/master/update-manifest.plist</string>
+	<string>https://github.com/jesstech/Tumblr-Ask-Patcher/raw/master/safari/update-manifest.plist</string>
 	<key>Website</key>
 	<string>http://rooshoes.tumblr.com</string>
 </dict>
