@@ -10,7 +10,7 @@ Download Extension
 Changelog
 =========
 
-1.3 -- Now keeps your cursor position!
-1.2 -- Smarter about text replacement, doesn't replace regular periods unless they're part of a URL.
-1.1 -- Updated to fix compatibility with new tumblr ask boxes.
-1.0 -- Initial version.
+    +  1.3 -- Now keeps your cursor position!
+    +  1.2 -- Smarter about text replacement, doesn't replace regular periods unless they're part of a URL.
+    +  1.1 -- Updated to fix compatibility with new tumblr ask boxes.
+    +  1.0 -- Initial version.
