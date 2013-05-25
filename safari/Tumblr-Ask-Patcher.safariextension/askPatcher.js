@@ -37,9 +37,9 @@ var askWatcher = setInterval(function() {
     var characters_remaining = document.getElementById('characters_remaining');
     var character_counter = document.getElementById('character_counter');
 
-    if (q.value.match(/http:\/\//i)) {
+    if (q.value.match(/https?:\/\//i)) {
       var sel = getInputSelection(q);
-      q.value = q.value.replace(/http:\/\//ig,'');
+      q.value = q.value.replace(/https?:\/\//ig,'');
       setInputSelection(q,sel.start,sel.end-7);
     }
     replaceDot(q, q.value.match(/(www)\./ig));
