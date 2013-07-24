@@ -1,15 +1,16 @@
 Download Extension
 ==================
 
-###[For Safari](https://github.com/jesstech/Tumblr-Ask-Patcher/raw/master/safari/Tumblr-Ask-Patcher1.4.safariextz)
+###[For Safari](https://github.com/jesstech/Tumblr-Ask-Patcher/raw/master/safari/Tumblr-Ask-Patcher1.5.safariextz)
     Just double-click to install.
 
-###[For Chrome](https://github.com/jesstech/Tumblr-Ask-Patcher/raw/master/chrome/Tumblr-Ask-Patcher1.4.crx)
+###[For Chrome](https://github.com/jesstech/Tumblr-Ask-Patcher/raw/master/chrome/Tumblr-Ask-Patcher1.5.crx)
     To install, open your Chrome preferences, go to Extensions, and drag the file onto the window.
 
 Changelog
 =========
 
+    +  1.5 -- Chrome compatibility fix.
     +  1.4 -- Fixed a bug that wasn't stripping https
     +  1.3 -- Now keeps your cursor position!
     +  1.2 -- Smarter about text replacement, doesn't replace regular periods unless they're part of a URL.
