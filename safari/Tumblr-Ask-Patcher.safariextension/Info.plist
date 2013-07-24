@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>rooshoes</string>
 	<key>Builder Version</key>
-	<string>8536.29.13</string>
+	<string>8536.30.1</string>
 	<key>CFBundleDisplayName</key>
 	<string>Tumblr Ask Patcher</string>
 	<key>CFBundleIdentifier</key>
@@ -13,9 +13,9 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.4</string>
+	<string>1.5</string>
 	<key>CFBundleVersion</key>
-	<string>3</string>
+	<string>4</string>
 	<key>Chrome</key>
 	<dict/>
 	<key>Content</key>
